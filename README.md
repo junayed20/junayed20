@@ -48,18 +48,18 @@
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahfahim2&show_icons=true&theme=vue" alt="Abdullah's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=junayed20&show_icons=true&theme=vue" alt="Abdullah's GitHub Stats">
 </p>
 
 <!-- GitHub Streak Stats 
 <h3 align="center">🔥 GitHub Streak Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junayeda20&theme=vue" alt="Mamun's GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junayeda20&theme=vue" alt="Mamun's GitHub Streak Stats">
 </p> -->
 
 
 <!-- Top Languages -->
 <h3 align="center">🌟 Top Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahfahim2&layout=compact&theme=vue" alt="Mamun's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayed20&layout=compact&theme=vue" alt="Mamun's Top Languages">
 </p>
