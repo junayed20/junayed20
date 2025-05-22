@@ -54,12 +54,12 @@
 <!-- GitHub Streak Stats 
 <h3 align="center">🔥 GitHub Streak Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahfahim2&theme=vue" alt="Abdullah's GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junayeda20&theme=vue" alt="Mamun's GitHub Streak Stats">
 </p> -->
 
 
 <!-- Top Languages -->
 <h3 align="center">🌟 Top Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahfahim2&layout=compact&theme=vue" alt="Abdullah's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahfahim2&layout=compact&theme=vue" alt="Mamun's Top Languages">
 </p>
